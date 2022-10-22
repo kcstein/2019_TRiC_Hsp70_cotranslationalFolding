@@ -1,20 +1,20 @@
-﻿GEO_sample_name,Sample_description,GEO_codon_count_file,Github_sample
+﻿GEO_sample_name,Sample_description,GEO_codon_count_file,Scripts_object_name
 GSM3152879,TRiC-bound Rep 1,T1.txt,T1X
 GSM3152880,TRiC-bound Rep 2,T2.txt,T2X
 GSM3152881,TRiC total Rep 1,R1.txt,R1X
 GSM3152882,TRiC total Rep 2,R2.txt,R2X
-GSM3152883,TRiC-bound puromycin Rep 1,T1puro.txt,T_PUR
-GSM3152884,TRiC-bound puromycin Rep 2,T2puro.txt,Tpur
-GSM3152885,TRiC total puromycin Rep 1,R1puro.txt,R_PUR
-GSM3152886,TRiC total puromycin Rep 2,R2puro.txt,Rpur
-GSM3152887,Ssb-bound Rep 1,Ssb_S1.txt,Schx1
-GSM3152888,Ssb-bound Rep 2,Ssb_S2.txt,Schx2
-GSM3152889,Ssb total Rep 1,Ssb_R1.txt,Rchx1
-GSM3152890,Ssb total Rep 2,Ssb_R2.txt,Rchx2
-GSM3152891,Ssb-bound puromycin Rep 1,Ssb_S1puro.txt,Spuro1
-GSM3152892,Ssb-bound puromycin Rep 2,Ssb_S2puro.txt,Spuro2
-GSM3152893,Ssb total puromycin Rep 1,Ssb_R1puro.txt,Rpuro1
-GSM3152894,Ssb total puromycin Rep 2,Ssb_R2puro.txt,Rpuro2
+GSM3152883,TRiC-bound puromycin Rep 1,T1puro.txt,T1pur
+GSM3152884,TRiC-bound puromycin Rep 2,T2puro.txt,T2pur
+GSM3152885,TRiC total puromycin Rep 1,R1puro.txt,R1pur
+GSM3152886,TRiC total puromycin Rep 2,R2puro.txt,R2pur
+GSM3152887,Ssb-bound Rep 1,Ssb_S1.txt,SSB_Schx1
+GSM3152888,Ssb-bound Rep 2,Ssb_S2.txt,SSB_Schx2
+GSM3152889,Ssb total Rep 1,Ssb_R1.txt,SSB_Rchx1
+GSM3152890,Ssb total Rep 2,Ssb_R2.txt,SSB_Rchx2
+GSM3152891,Ssb-bound puromycin Rep 1,Ssb_S1puro.txt,SSB_Spuro1
+GSM3152892,Ssb-bound puromycin Rep 2,Ssb_S2puro.txt,SSB_Spuro2
+GSM3152893,Ssb total puromycin Rep 1,Ssb_R1puro.txt,SSB_Rpuro1
+GSM3152894,Ssb total puromycin Rep 2,Ssb_R2puro.txt,SSB_Rpuro2
 GSM3152895,atp2 mutant TRiC-bound Rep 1,atp2_T1.txt,Atp2_T1
 GSM3152896,atp2 mutant TRiC-bound Rep 2,atp2_T2.txt,Atp2_T2
 GSM3152897,atp2 mutant TRiC total Rep 1,atp2_R1.txt,Atp2_R1
